@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Companion repo for Cypress course on Test automation university",
   "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run",
     "cy:open": "./node_modules/.bin/cypress open",
     "cy:run": "./node_modules/.bin/cypress run",
     "start": "cd app && npm start",
