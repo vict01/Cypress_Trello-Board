@@ -1,7 +1,7 @@
 {
-  "name": "cypress-tau-course",
+  "name": "cypress-trello-board",
   "version": "1.0.0",
-  "description": "Companion repo for Cypress course on Test automation university",
+  "description": "Test automation for Trello board",
   "scripts": {
     "cypress": "cypress open",
     "test": "cypress run",
@@ -12,11 +12,9 @@
   },
   "keywords": [
     "cypress",
-    "testing",
-    "course",
-    "tau"
+    "testing"
   ],
-  "author": "Filip Hric",
+  "author": "Víctor Caminero",
   "license": "ISC",
   "devDependencies": {
     "@4tw/cypress-drag-drop": "^1.8.1",
